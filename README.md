@@ -84,8 +84,8 @@ I specialize in building **scalable web apps** using **ReactJS / NextJS**, and *
 
 ### 📬 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📧 Email: yourname@example.com  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/abdul-raheem-93b560122/))
+- 📧 Email: abdulraheem4255395@gmail.com
 
 ---
 
